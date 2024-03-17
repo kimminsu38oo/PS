@@ -1,3 +1,6 @@
+//새로 배운 개념
+//xmodN=(xmodN)modN
+
 #include<iostream>
 using namespace std;
 int n;
