@@ -1,3 +1,5 @@
+//메모제이션 기법 활용 
+
 #include<iostream>
 #define N 1000001
 using namespace std;
